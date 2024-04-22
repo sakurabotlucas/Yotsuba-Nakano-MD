@@ -13,41 +13,41 @@ global.confirmCode = ""
 
 //• ↳𝑷𝑶𝑵 𝑳𝑶𝑺 𝑵𝑼𝑴𝑬𝑹𝑶𝑺 𝑸𝑼𝑬 𝑸𝑼𝑰𝑬𝑹𝑨𝑺
 global.owner = [
-['573012482597', '👑 Cʀᴇᴀᴅᴏʀ 🪐', true],
-['5214531287294', 'Zᴀᴍ Oᴡɴᴇʀ 🍧', true],
-['50558124470', 'Sᴜᴘᴘʀᴛ 💻', true],
+['51916933313', '👑 Cʀᴇᴀᴅᴏʀ 🪐', true],
+['51913458682', 'black 𝙾𝚆𝙽𝙴𝚁 🍧', true],
+['51916933313', '𝚂𝚄𝙿𝙿𝙾𝚁𝚃 Lucas 💻', true],
 ['447700168473'],
 ['5492266613038'],
 ['51935499065']]
 
 //• ↳𝑨𝑮𝑹𝑬𝑮𝑨𝑻𝑬 𝑺𝑰 𝑬𝑹𝑬𝑺 𝑶𝑾𝑵𝑬𝑹
 global.contactos = [
-["573012482597", '💚 Dɪᴇɢᴏ Oғᴄ 💋', 1],
-["5214531287294", 'Zᴀᴍ Oᴡɴᴇʀ 🍧', 1],
-["447700168473", 'Dᴇsᴀʀʀᴏʟʟᴀᴅᴏʀ 🐈', 1],
-['50558124470', 'Sᴜᴘᴘʀᴛ 💻', 1]]
+["51916933313", '🍭 Lucas 𝙾𝙵𝙲 🧃', 1],
+["51913458682", 'black 𝙾𝚆𝙽𝙴𝚁 🍧', 1],
+["51916933313", 'Dᴇsᴀʀʀᴏʟʟᴀᴅᴏʀ 🐈', 1],
+['50558124470', '𝚂𝚄𝙿𝙿𝙾𝚁𝚃 Lucas 💻', 1]]
 
-global.suittag = ['573012482597'];
-global.prems = ['573218138672'];
+global.suittag = ['51916933313'];
+global.prems = ['51913458682'];
 
 global.lenguajeYL = es //idioma de yotsuba
 
 //• ↳ ◜𝑴𝑨𝑹𝑪𝑨𝑺 𝑫𝑬 𝑨𝑮𝑼𝑨◞ • 🍁
-global.packname = '𝗬𝗼𝘁𝘀𝘂𝗯𝗮 𝗡𝗮𝗸𝗮𝗻𝗼 - 𝗠𝗗 🪷';
-global.author = 'Dɪᴇɢᴏ 🌩';
-global.wm = 'Yotsuba : Nakano 🌼';
-global.titulowm = '𝗬𝗈𝗍𝗌𝗎𝖻𝖺 : 𝗡𝖺𝗄𝖺𝗇𝗈';
-global.titulowm2 = `𝐃𝐢𝐞𝐠𝐨 𝐎𝐟𝐜`
-global.igfg = 'Diego Oficial';
-global.sk = 'Yᴏᴛsᴜʙᴀ Nᴀᴋᴀɴᴏ - MD';
+global.packname = '⬪࣪ꥈ🕊️⨭ ⁞ʟ꯭⁞ᴜ⁞ᴄ꯭⁞ᴀs⁞ bot🪐✨';
+global.author = '💫⏤͟͟͞͞ʟ꯭ᴜᴄ꯭ᴀs• ࣪✦˖✨';
+global.wm = '📝 𝆭 𝆺𝅥⾕ ᴇ꯬߭݉᷼ᴅ꯭፝ɪ꯬߭݉᷼ᴛ꯭፝꯬߭݉᷼ᴏ꯭꯬߭݉᷼ʀ 𝆭 𝆺𝅥 ..✍️';
+global.titulowm = 'Lucas : bot ofc';
+global.titulowm2 = `Lucas 𝐎𝐟𝐜`
+global.igfg = 'Lucas Oficial';
+global.sk = 'Lucas black - MD';
 global.team = '𝐒𝐭𝐚𝐫𝐥𝐢𝐠𝐡𝐭𝐬 𝐓𝐞𝐚𝐦';
 global.vs = '1.0.7';
 
 //• ↳ ◜𝑴𝑺𝑮 𝑫𝑬 𝑬𝑺𝑷𝑬𝑹𝑨◞ • 🈸
-global.wait = '*⏰️ 𝗘𝘀𝗽𝗲𝗿𝗲 𝗨𝗻 𝗠𝗼𝗺𝗲𝗻𝘁𝗼 ...*';
-global.waitt = '*⏰️ 𝗘𝘀𝗽𝗲𝗿𝗲 𝗨𝗻 𝗠𝗼𝗺𝗲𝗻𝘁𝗼 ...*';
-global.waittt = '*⏰️ 𝗘𝘀𝗽𝗲𝗿𝗲 𝗨𝗻 𝗠𝗼𝗺𝗲𝗻𝘁𝗼 ...*';
-global.waitttt = '*⏰️ 𝗘𝘀𝗽𝗲𝗿𝗲 𝗨𝗻 𝗠𝗼𝗺𝗲𝗻𝘁𝗼 ...*';
+global.wait = '*⏰️ єѕρєяє υи мοмєиτο🧃 ...*';
+global.waitt = '*⏰️ єѕρєяє υи мοмєиτο⚽ ...*';
+global.waittt = '*⏰️ єѕρєяє υи мοмєиτο📚 ...*';
+global.waitttt = '*⏰️ єѕρєяє υи мοмєиτο🌠 ...*';
 
 //• ↳ ◜𝑰𝑴𝑨́𝑮𝑬𝑵𝑬𝑺◞ • 🌇
 global.imagen1 = fs.readFileSync('./Menu2.jpg');
@@ -60,11 +60,10 @@ global.imagen7 = fs.readFileSync('./AhoraQue.png');
 global.imagen8 = fs.readFileSync('./Que.jpg');
 
 //• ↳ ◜𝑳𝑰𝑵𝑲𝑺◞ • 🌿
-global.gp1 = 'https://chat.whatsapp.com/Eaa9JFA53ps7WHMv2VHbO9' //Grupo Oficial De Yotsuba
+global.gp1 = 'https://chat.whatsapp.com/GsiTotd2KcCAwzX9K5P7SA' //ɢ̾ʀ̾ᴜ̾ᴘ̾ᴏ̾ ᴅ̾ᴇ̾ʟ̾ ʙ̾ᴏ̾ᴛ
+global.gp2 = 'https://chat.whatsapp.com/CGquUNBOTXmCktXZxXVzyz' //G̾ʀ̾ᴜ̾ᴘ̾ᴏ̾ ᴅ̾ᴇ̾ ᴀ̾ᴍ̾ɪ̾s̾ᴛ̾ᴀ̾ᴅ̾
 
-global.gp2 = 'https://chat.whatsapp.com/JNdlCEUKLqHAw87sOqfKmO' //CuriosityBot Y Yotsuba
-
-global.gp3 = 'https://chat.whatsapp.com/IstOAq2RnBx687WhQpOYK8' //NovaBot Y Yotsuba
+global.gp3 = 'https://chat.whatsapp.com/LNX7Asi0F3l8MdY4s0rH4U' //єиℓαϲєѕ γ ρнοиκ
 
 global.channel = 'https://whatsapp.com/channel/0029VaQD7LAJP216tu9liI2A' //Canal Oficial
 
